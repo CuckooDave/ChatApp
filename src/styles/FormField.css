@@ -1,0 +1,31 @@
+.form-field {
+    margin: 70px ;
+    width: 400px;
+    display: flex;
+    justify-content: center;   
+}
+
+.form-field2{
+    margin-left: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 70px ;
+    width: 400px;
+    display: flex;
+    justify-content: center;   
+}
+
+.username {
+    color: rgb(113, 0, 102);
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.message2 {
+    color: rgb(202, 194, 132);
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
